@@ -16,3 +16,5 @@ def expectation(ntoss):
     return E
 
 print(expectation(10))
+
+
